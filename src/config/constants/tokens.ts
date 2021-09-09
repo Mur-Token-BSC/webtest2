@@ -34,11 +34,11 @@ export const mainnetTokens = {
   tlos: new Token(MAINNET, '0xb6C53431608E626AC81a9776ac3e999c5556717c', 18, 'TLOS', 'Telos', 'https://www.telos.net/'),
   stephero: new Token(
     MAINNET,
-    '0x41026b5eecd3752e1f1a8a8941da97c97b7f4603',
+    '0xE8176d414560cFE1Bf82Fd73B986823B89E4F545',
     18,
-    'MUR',
-    'MAKE US RICH',
-    'https://mur.exchange/',
+    'HERO',
+    'StepHero',
+    'https://stephero.io/',
   ),
   qbt: new Token(MAINNET, '0x17B7163cf1Dbd286E262ddc68b553D899B93f526', 18, 'QBT', 'Qubit Token', 'https://qbt.fi/'),
   cvp: new Token(
@@ -64,6 +64,14 @@ export const mainnetTokens = {
     'BUSD',
     'Binance USD',
     'https://www.paxos.com/busd/',
+  ),
+  mur: new Token(
+    MAINNET,
+    '0x41026b5eecd3752e1f1a8a8941da97c97b7f4603',
+    18,
+    'MUR',
+    'Make Us Rich',
+    'https://www.mur.exchange/',
   ),
   dai: new Token(
     MAINNET,
