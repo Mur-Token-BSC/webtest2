@@ -1,11 +1,11 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "short_name": "Mur Exchange",
+  "name": "Make Us Rich",
+  "description": "Farm MUR with Pancake LP Tokens",
+  "homepage_url": "https://mur.exchange/",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1FC7D4",
+  "theme_color": "#00fff7",
   "background_color": "#ffffff",
   "orientation": "portrait",
   "icons": [
