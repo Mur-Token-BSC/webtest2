@@ -19,12 +19,12 @@ const farms: SerializedFarmConfig[] = [
   },
   {
     pid: 251,
-    lpSymbol: 'CAKE-BNB LP',
+    lpSymbol: 'MUR-BNB LP',
     lpAddresses: {
       97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
-      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0',
+      56: '0x7Ab3118cf003aC1680C7E05E98B05997881FB964',
     },
-    token: serializedTokens.cake,
+    token: serializedTokens.mur,
     quoteToken: serializedTokens.wbnb,
   },
   {
