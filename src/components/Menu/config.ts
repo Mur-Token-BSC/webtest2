@@ -14,7 +14,7 @@ const config: (t: ContextApi['t']) => MenuEntry[] = (t) => [
       },
       {
         label: t('Liquidity'),
-        icon: 'HomeIcon',
+        icon: 'PoolIcon',
         href: '/liquidity',
       },
   {
